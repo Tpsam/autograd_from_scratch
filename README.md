@@ -21,7 +21,7 @@ a logical flow of operations within a network:
 
 here is a visualization of the directed acyclic graph (DAG) generated during the forward pass, showing values and their accumulated gradients:
 
-![computation graph]([assets/computation_graph.svg])
+![computation graph]([computation_graph.svg])
 
 ---
 
@@ -40,6 +40,6 @@ to validate the engine's learning capabilities on a non-linearly separable probl
 
 ### training loss curves
 
-![XOR training curve: SGD vs Adam]([assets/xor_loss_curve.png])
+![XOR training curve: SGD vs Adam]([xor_loss_curve.png])
 
 
